@@ -10,4 +10,7 @@ const mergedData = {
   pincode
 };
 
-console.table({name, age , address, pincode});
+console.table(mergedData);
+
+
+
